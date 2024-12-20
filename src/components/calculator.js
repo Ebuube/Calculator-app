@@ -16,25 +16,25 @@ class Calculator extends React.Component {
             <Button label={"Clear"} />
             <Button label={"Delete"} />
             <Button label={"."} />
-            <button label={"/"} />
+            <Button label={"/"} />
           </div>
           <div className="button-row">
             <Button label={"7"} />
             <Button label={"8"} />
             <Button label={"9"} />
-            <button label={"*"} />
+            <Button label={"*"} />
           </div>
           <div className="button-row">
             <Button label={"4"} />
             <Button label={"5"} />
             <Button label={"6"} />
-            <button label={"-"} />
+            <Button label={"-"} />
           </div>
           <div className="button-row">
             <Button label={"1"} />
             <Button label={"2"} />
             <Button label={"3"} />
-            <button label={"+"} />
+            <Button label={"+"} />
           </div>
           <div className="button-row">
             <Button label={"0"} />
